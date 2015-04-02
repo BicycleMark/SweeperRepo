@@ -1,0 +1,20 @@
+﻿Sweeper
+
+
+winexe
+C#
+.cs
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\Sweeper\obj\Debug\
+Sweeper
+none
+false
+DEBUG;TRACE
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\Sweeper\App.xaml
+71474680000
+31201407468
+23-76735590
+151144402778
+MainWindow.xaml;Resources\BRUSH-BIGBORDER.xaml;Resources\BRUSH-FACES.xaml;Resources\BRUSH-PIECES.xaml;Views\About.xaml;Views\LoggingOptions.xaml;Resources\PiecesDictionary.xaml;
+resources\image-items\splash.png
+False
+

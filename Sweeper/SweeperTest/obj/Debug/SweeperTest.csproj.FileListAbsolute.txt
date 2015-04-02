@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\Resources\Sounds\CLICK.WAV
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\Resources\Sounds\EXPLODE.WAV
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\Resources\Sounds\Start.wav
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\SweeperTest.dll
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\SweeperTest.pdb
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\Sweeper.exe
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\bin\Debug\Sweeper.pdb
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\obj\Debug\SweeperTest.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\obj\Debug\SweeperTest.dll
+\\vmware-host\Shared Folders\Downloads\MicrosoftDownloads\Sweeper\Sweeper\SweeperTest\obj\Debug\SweeperTest.pdb
