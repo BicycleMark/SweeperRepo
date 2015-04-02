@@ -6,9 +6,8 @@
         xmlns:vm="clr-namespace:Sweeper.ViewModels"
         xmlns:mouse="clr-namespace:Sweeper.Views"
         xmlns:diag="clr-namespace:System.Diagnostics;assembly=WindowsBase"
-        Title="{Binding Path=Title, FallbackValue='MainWindowXX'}" 
-        
-        Background ="{x:Null}" Foreground="#FFD2F4CC" Width="{Binding Width}" Height="{Binding Height}">
+        Title="{Binding Path=Title, FallbackValue='MainWindowXX'}"    
+        Foreground="#FFD2F4CC" Width="{Binding Width}" Height="{Binding Height}" Background="#FF25605E">
 
 
     <Window.Resources>
